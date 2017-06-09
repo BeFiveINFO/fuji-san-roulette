@@ -37,8 +37,8 @@ Please check up Time Square to see how it works.
    - Distributed at [Getsuren](http://www.getsuren.com/en/). [Twitter account](https://twitter.com/snowy_tgn).
  - The photograph used in the background art, a cityscape of Yokohama with Mount Fuji in the background.
    - Photos taken by [skyseeker](http://www.skyseeker.net/). [Twitter account](https://twitter.com/skyseeker).
- - Kurage Kosho:
-   - Distributes public domain sounds which you can use for absolutely free as long as you do not violate laws by using them. [Website](http://www.kurage-kosho.info/).
+ - switch02, button switch sound.
+   - [Kurage Kosho](http://www.kurage-kosho.info/) distributes public domain sounds which you can use for absolutely free as long as you do not violate laws by using them.
 
 # License
 MIT
