@@ -21,7 +21,7 @@ Please check up Time Square to see how it works.
 1. Make a directory in your web server and copy the content into it.
 2. Open http:://yourserver/the_directory_of_your_choice/index.html in your browser
 - Note: You can still try the demo by simply double clicking index.html in your computer's desktop. But you will not hear any sound because of CORS issue (please [see here](http://www.html5gamedevs.com/topic/6459-newbie-struggling-with-cors-issues/) for more info).
-3. You can easily replace the background art by modifying **images/backgroundArt.jpg** The dimension of the image should be 600 x 900.
+3. You can easily replace the background art by modifying **images/backgroundArt.jpg** The dimensions of the image should be 600 x 900.
 4. There are 2 configurations that can be modified in the rom-game.js. **playCost** defines the amount of credit necessary for 1 bet. **userCredits** defines the amount of credit user initially has. **pocketBetStrip** defines a sequence of pocket numbers.
 
 # Please also see
