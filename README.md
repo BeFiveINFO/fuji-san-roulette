@@ -32,7 +32,7 @@ Please check up Time Square to see how it works.
   - ![](http://befiveinfo.github.io/images/shared/roulette-experiment/dealer_ginjirou_gamescreen_thumbnail.png)
   - The game uses a single PNG with transparent for the spin wheel discs.
 
- **Special Thanks**
+# Special Thanks
  - Kagakuchop Font
    - Distributed at [Getsuren](http://www.getsuren.com/en/). [Twitter account](https://twitter.com/snowy_tgn).
  - The photograph used in the background art, a cityscape of Yokohama with Mount Fuji in the background.
