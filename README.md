@@ -16,7 +16,9 @@ Choose any number button from 2 ~ 30 to place your bet. Each bet costs 2 credits
 
 ## Online Demo
 
-Please check up here to see how it works on web. Please be reminded that the demo version is customized with assistant menu and credit replenishment service.
+Please check up online demo to see how it works in your web browser:
+
+[http://play.befive.info/fuji-san-roulette](http://play.befive.info/fuji-san-roulette)
 
 ## To try this script on your webserver
 
@@ -24,7 +26,7 @@ Please check up here to see how it works on web. Please be reminded that the dem
 2. Open http:://yourserver/the_directory_of_your_choice/index.html in your browser
 - Note: You can still try the demo by simply double clicking index.html in your computer's desktop. But you will not hear any sound because of CORS issue (please [see here](http://www.html5gamedevs.com/topic/6459-newbie-struggling-with-cors-issues/) for more info).
 3. You can easily replace the background art by modifying **images/backgroundArt.jpg** The dimensions of the image should be 600 x 900.
-4. There are few configurations that can be modified in the rom-game.js. Edit config/json.
+4. There are few configurations that can be modified in the rom-game.js. Edit **config.json**.
   - **playCost** : defines the amount of credit necessary for 1 bet.
   - **initial_credits** : defines the amount of credit user initially has.
   - **pocketBetStrip** : defines a sequence of pocket numbers.
