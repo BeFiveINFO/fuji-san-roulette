@@ -37,9 +37,9 @@ Please check up online demo to see how it works in your web browser:
 It is possible to enjoy the game by simply downloading the repo as a zip archive, thawing the archive, then opening index.html it by double click. But you do not have web fonts and sound support. You will need to put the archive on your web server for the full functionality.
 
 # Please also see
-- Time Square
-  - This game is a customized version of Fuji-san Roulette. (Coming Soon)
-- [Dealer Ginjirou](http://play.befive.info/dealer-ginjirou/)
+- [Phaser Roulette Example (OPEN SOURCE)](https://github.com/BeFiveINFO/phaser_roulette_example)
+  - Fuji-san Roulette was built with roulette.js from Phaser Roulette Example (open source).
+- [Dealer Ginjirou (Closed Source)](http://play.befive.info/dealer-ginjirou/)
   - ![](http://befiveinfo.github.io/images/shared/roulette-experiment/dealer_ginjirou_gamescreen_thumbnail.png)
   - The game uses a single PNG with transparent for the spin wheel discs.
 
