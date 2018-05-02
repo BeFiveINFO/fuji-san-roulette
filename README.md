@@ -39,7 +39,7 @@ It is possible to enjoy the game by simply downloading the repo as a zip archive
 # Please also see
 - [Phaser Roulette Example (OPEN SOURCE)](https://github.com/BeFiveINFO/phaser_roulette_example)
   - Fuji-san Roulette was built with roulette.js from Phaser Roulette Example (open source).
-- [Dealer Ginjirou (Closed Source)](http://play.befive.info/dealer-ginjirou/)
+- [Dealer Ginjirou (OPEN SOURCE)](https://github.com/BeFiveINFO/befive-dealer-ginjirou)
   - ![](http://befiveinfo.github.io/images/shared/roulette-experiment/dealer_ginjirou_gamescreen_thumbnail.png)
   - The game uses a single PNG with transparent for the spin wheel discs.
 
